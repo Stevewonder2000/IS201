@@ -1,0 +1,75 @@
+body{
+    font-family: 'Courier New', COurier, monospace;
+    background-color: goldenrod;
+    background-image: url(https://garden.spoonflower.com/c/14443762/p/f/m/ytcBJdOLV-s3UwtcZouoooX4BV7cP_72rouhlHYM4QBzrqX1MWea/Palm%20Springs%20Atomic%20Age%20Asterisks%20Subtle%20Turquoise.jpg);
+    background-repeat: repeat;
+    background-size: contain;
+    color: rgb(224, 197, 130);/*font color/
+
+}
+
+img{
+    display: block;
+    /*content*/
+    padding: 15px;
+    border: 2px dashed green;
+    margin: auto;
+
+}
+a{
+    color: whitesmoke;
+
+}
+a:visited{
+    color:rbg(168,212,197)
+}
+li{
+    font-style: italic;
+}
+li:hover{
+    font-size: 105%;
+    text-decoration: underline;
+    background-color: darkolivegreen;
+}
+.gangnam{
+    font-family: 'Lucida Grande';
+    font-style: Italic;
+    font-weight: bolder;
+    color: whitesmoke;
+    background-color: orange;
+    border: Spx dotted grey;
+}
+gangnam:hover{
+    text-align: center;
+    color: gray;
+    font-size: large;
+}
+.common{
+    border: 2px solid white;
+    position: absolute;
+}
+.nav{
+    top: 0;
+    right: 0;
+    z-index: 1;
+    background-color: rgba(98, 255, 0, 0.541)
+}
+footer{
+    position: fixed;
+    background-color: rgb(15, 15, 10);
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: block;
+    text-align: center;
+}
+.content{
+    left:0;
+    right:0;
+    top: 20px;
+    text-align: center;
+}
+.gallery img{
+    display: inline;
+    width: 250px;
+}
